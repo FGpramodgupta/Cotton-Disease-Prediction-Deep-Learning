@@ -1,1 +1,1 @@
-# Malaria-Detection
+# Cotton-Disease-Prediction-Deep-Learning
